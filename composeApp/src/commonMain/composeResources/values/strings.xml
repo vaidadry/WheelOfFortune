@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="title_label">Wheel of Fortune</string>
+    <string name="spin_wheel_button_label">Spin</string>
+    <string name="stop_wheel_button_label">Stop</string>
+    <string name="add_option_label">New option</string>
+    <string name="add_option_button_label">Add</string>
+    <string name="delete_option_button_label">Delete Selected</string>
+    <string name="congrats_dialog_title_label">We have a winner!!!</string>
+    <string name="congrats_dialog_text_label">Congratz, %1$s</string>
+    <string name="congrats_dialog_button_label">Yay</string>
+</resources>
